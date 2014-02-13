@@ -37,3 +37,6 @@
 [submodule "Library/three-word"]
 	path = Library/three-word
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-words
+[submodule "IceBase/reverse-engineer"]
+	path = IceBase/reverse-engineer
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-reverse-engineer.git
