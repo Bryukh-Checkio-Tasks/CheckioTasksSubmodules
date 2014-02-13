@@ -40,3 +40,6 @@
 [submodule "IceBase/reverse-engineer"]
 	path = IceBase/reverse-engineer
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-reverse-engineer.git
+[submodule "Uncategory/friendly-number"]
+	path = Uncategory/friendly-number
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-friendly-number.git
