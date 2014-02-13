@@ -1,3 +1,33 @@
 [submodule "Library/common-words"]
 	path = Library/common-words
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-common-words
+[submodule "Library/three-words"]
+	path = Library/three-words
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-radix
+[submodule "Library/most-numbers"]
+	path = Library/most-numbers
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-most-numbers
+[submodule "Library/even-last"]
+	path = Library/even-last
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-last
+[submodule "Library/even-average"]
+	path = Library/even-average
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-average
+[submodule "Library/absolute-sorting"]
+	path = Library/absolute-sorting
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-absolute-sorting
+[submodule "Library/end-of-other"]
+	path = Library/end-of-other
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-end-of-other
+[submodule "Library/digits-multiplication"]
+	path = Library/digits-multiplication
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digits-multiplication
+[submodule "Library/binary-count"]
+	path = Library/binary-count
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-binary-count
+[submodule "Library/fizz-buzz"]
+	path = Library/fizz-buzz
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-fizz-buzz
+[submodule "ElectronicStation/how-much-gold"]
+	path = ElectronicStation/how-much-gold
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-how-much-gold.git
