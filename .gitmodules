@@ -3,7 +3,7 @@
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-common-words
 [submodule "Library/three-words"]
 	path = Library/three-words
-	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-radix
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-words
 [submodule "Library/most-numbers"]
 	path = Library/most-numbers
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-most-numbers
@@ -31,3 +31,6 @@
 [submodule "ElectronicStation/how-much-gold"]
 	path = ElectronicStation/how-much-gold
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-how-much-gold.git
+[submodule "Library/number-radix"]
+	path = Library/number-radix
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-radix.git
