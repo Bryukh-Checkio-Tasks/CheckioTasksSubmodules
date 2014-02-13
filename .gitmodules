@@ -34,3 +34,6 @@
 [submodule "Library/number-radix"]
 	path = Library/number-radix
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-radix.git
+[submodule "Library/three-word"]
+	path = Library/three-word
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-words
