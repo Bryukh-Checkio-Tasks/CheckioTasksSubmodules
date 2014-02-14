@@ -11,7 +11,7 @@
 	path = Library/even-last
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-last
 [submodule "Library/even-average"]
-	path = Library/even-average
+	path = Uncategory/even-average
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-average
 [submodule "Library/absolute-sorting"]
 	path = Library/absolute-sorting
