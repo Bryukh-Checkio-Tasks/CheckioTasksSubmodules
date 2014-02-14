@@ -43,3 +43,6 @@
 [submodule "Uncategory/friendly-number"]
 	path = Uncategory/friendly-number
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-friendly-number.git
+[submodule "Home/feed-pigeons"]
+	path = Home/feed-pigeons
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-feed-pigeons
