@@ -12,7 +12,7 @@
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-last
 [submodule "Uncategory/even-average"]
 	path = Uncategory/even-average
-	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-average
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-last
 [submodule "Library/absolute-sorting"]
 	path = Library/absolute-sorting
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-absolute-sorting
@@ -46,3 +46,6 @@
 [submodule "Home/feed-pigeons"]
 	path = Home/feed-pigeons
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-feed-pigeons
+[submodule "Home/open-labyrinth"]
+	path = Home/open-labyrinth
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-open-labyrinth
