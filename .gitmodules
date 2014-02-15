@@ -52,3 +52,6 @@
 [submodule "Home/speech-module"]
 	path = Home/speech-module
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-speech-module.git
+[submodule "Home/most-wanted-letter"]
+	path = Home/most-wanted-letter
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-most-wanted-letter
