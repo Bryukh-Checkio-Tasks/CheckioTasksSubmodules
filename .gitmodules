@@ -49,3 +49,6 @@
 [submodule "Home/open-labyrinth"]
 	path = Home/open-labyrinth
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-open-labyrinth
+[submodule "Home/speech-module"]
+	path = Home/speech-module
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-speech-module.git
