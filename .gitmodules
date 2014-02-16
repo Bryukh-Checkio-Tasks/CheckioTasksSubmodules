@@ -58,3 +58,6 @@
 [submodule "Incinerator/shortest-knight-path"]
 	path = Incinerator/shortest-knight-path
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-shortest-knight-path.git
+[submodule "Graveyard/broken-clock"]
+	path = Graveyard/broken-clock
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-broken-clock.git
