@@ -55,3 +55,6 @@
 [submodule "Home/most-wanted-letter"]
 	path = Home/most-wanted-letter
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-most-wanted-letter
+[submodule "Incinerator/shortest-knight-path"]
+	path = Incinerator/shortest-knight-path
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-shortest-knight-path.git
