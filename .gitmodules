@@ -61,3 +61,9 @@
 [submodule "Graveyard/broken-clock"]
 	path = Graveyard/broken-clock
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-broken-clock.git
+[submodule "Home/house-password"]
+	path = Home/house-password
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-house-password.git
+[submodule "Incinerator/bulls-and-cows"]
+	path = Incinerator/bulls-and-cows
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-bulls-and-cows.git
