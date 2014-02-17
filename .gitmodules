@@ -67,3 +67,6 @@
 [submodule "Incinerator/bulls-and-cows"]
 	path = Incinerator/bulls-and-cows
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-bulls-and-cows.git
+[submodule "ElectronicStation/numbers-factory"]
+	path = ElectronicStation/numbers-factory
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-numbers-factory.git
