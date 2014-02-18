@@ -76,3 +76,6 @@
 [submodule "Incinerator/snake"]
 	path = Incinerator/snake
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-snake.git
+[submodule "Alice/hidden-word"]
+	path = Alice/hidden-word
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hidden-word
