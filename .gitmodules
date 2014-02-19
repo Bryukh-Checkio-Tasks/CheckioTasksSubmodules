@@ -79,3 +79,6 @@
 [submodule "Alice/hidden-word"]
 	path = Alice/hidden-word
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hidden-word
+[submodule "ElectronicStation/minesweeper"]
+	path = ElectronicStation/minesweeper
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-minesweeper.git
