@@ -85,3 +85,6 @@
 [submodule "Uncategory/hamming-distance"]
 	path = Uncategory/hamming-distance
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hamming-distance.git
+[submodule "Home/x-o-referee"]
+	path = Home/x-o-referee
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-x-o-referee.git
