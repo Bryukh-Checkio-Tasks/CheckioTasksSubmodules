@@ -97,3 +97,6 @@
 [submodule "Incinerator/are-convex-polygon"]
 	path = Incinerator/are-convex-polygon
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-area-convex-polygon.git
+[submodule "Incinerator/anagrams-stack"]
+	path = Incinerator/anagrams-stack
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-anagrams-by-stacks.git
