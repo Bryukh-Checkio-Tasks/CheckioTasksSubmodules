@@ -94,3 +94,6 @@
 [submodule "ScientificExpedition/ore-in-desert"]
 	path = ScientificExpedition/ore-in-desert
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-ore-in-the-desert.git
+[submodule "Incinerator/are-convex-polygon"]
+	path = Incinerator/are-convex-polygon
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-area-convex-polygon.git
