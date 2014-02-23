@@ -91,3 +91,6 @@
 [submodule "Hubspot/hubspot-amulet"]
 	path = Hubspot/hubspot-amulet
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hubspot-amulet.git
+[submodule "ScientificExpedition/ore-in-desert"]
+	path = ScientificExpedition/ore-in-desert
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-ore-in-the-desert.git
