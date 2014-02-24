@@ -100,3 +100,6 @@
 [submodule "Incinerator/anagrams-stack"]
 	path = Incinerator/anagrams-stack
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-anagrams-by-stacks.git
+[submodule "IceBase/water-jars"]
+	path = IceBase/water-jars
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-water-jars.git
