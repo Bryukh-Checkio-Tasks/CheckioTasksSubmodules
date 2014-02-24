@@ -106,3 +106,6 @@
 [submodule "Dropbox/express-delivery"]
 	path = Dropbox/express-delivery
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-express-delivery.git
+[submodule "Mine/pumping-stations"]
+	path = Mine/pumping-stations
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-pumping-stations.git
