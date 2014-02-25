@@ -118,3 +118,6 @@
 [submodule "IceBase/colder-warmer"]
 	path = IceBase/colder-warmer
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-colder-warmer.git
+[submodule "IceBase/number-guess"]
+	path = IceBase/number-guess
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-guess
