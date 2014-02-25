@@ -121,3 +121,6 @@
 [submodule "IceBase/number-guess"]
 	path = IceBase/number-guess
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-guess
+[submodule "Home/non-unique-elements"]
+	path = Home/non-unique-elements
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-non-unique-elements.git
