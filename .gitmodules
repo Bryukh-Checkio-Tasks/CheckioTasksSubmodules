@@ -109,3 +109,6 @@
 [submodule "Mine/pumping-stations"]
 	path = Mine/pumping-stations
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-pumping-stations.git
+[submodule "OReylli/haunted-house"]
+	path = OReylli/haunted-house
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-haunted-house.git
