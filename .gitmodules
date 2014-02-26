@@ -124,3 +124,6 @@
 [submodule "Home/non-unique-elements"]
 	path = Home/non-unique-elements
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-non-unique-elements.git
+[submodule "Home/median"]
+	path = Home/median
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-median.git
