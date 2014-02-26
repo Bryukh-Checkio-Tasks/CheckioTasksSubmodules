@@ -127,3 +127,6 @@
 [submodule "Home/median"]
 	path = Home/median
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-median.git
+[submodule "Uncategory/painting-wall"]
+	path = Uncategory/painting-wall
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-painting-wall.git
