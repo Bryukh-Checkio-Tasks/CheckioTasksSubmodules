@@ -133,3 +133,6 @@
 [submodule "Home/roman-numerals"]
 	path = Home/roman-numerals
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-roman-numerals.git
+[submodule "template-and-forks"]
+	path = template-and-forks
+	url = https://github.com/CheckiO/checkio-task-template
