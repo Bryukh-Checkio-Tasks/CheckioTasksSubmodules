@@ -136,3 +136,6 @@
 [submodule "template-and-forks"]
 	path = template-and-forks
 	url = https://github.com/CheckiO/checkio-task-template
+[submodule "ElectronicStation/hamming-distance"]
+	path = ElectronicStation/hamming-distance
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hamming-distance
