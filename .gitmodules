@@ -139,3 +139,6 @@
 [submodule "ElectronicStation/hamming-distance"]
 	path = ElectronicStation/hamming-distance
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hamming-distance
+[submodule "ElectronicStation/brackets"]
+	path = ElectronicStation/brackets
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-brackets.git
