@@ -142,3 +142,9 @@
 [submodule "ElectronicStation/brackets"]
 	path = ElectronicStation/brackets
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-brackets.git
+[submodule "ElectronicStation/restricted-sum"]
+	path = ElectronicStation/restricted-sum
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-forbidden-sum.git
+[submodule "ElectronicStation/find-sequence"]
+	path = ElectronicStation/find-sequence
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-find-sequence.git
