@@ -148,3 +148,6 @@
 [submodule "ElectronicStation/find-sequence"]
 	path = ElectronicStation/find-sequence
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-find-sequence.git
+[submodule "ElectronicStation/numbered-triangles"]
+	path = ElectronicStation/numbered-triangles
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-numbered-triangles.git
