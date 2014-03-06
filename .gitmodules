@@ -151,3 +151,6 @@
 [submodule "ElectronicStation/numbered-triangles"]
 	path = ElectronicStation/numbered-triangles
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-numbered-triangles.git
+[submodule "ElectronicStation/three-points-circle"]
+	path = ElectronicStation/three-points-circle
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-points-circle.git
