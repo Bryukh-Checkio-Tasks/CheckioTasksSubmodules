@@ -154,3 +154,6 @@
 [submodule "ElectronicStation/three-points-circle"]
 	path = ElectronicStation/three-points-circle
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-points-circle.git
+[submodule "ElectronicStation/radiation-search"]
+	path = ElectronicStation/radiation-search
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-radiation-search.git
