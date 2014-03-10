@@ -157,3 +157,9 @@
 [submodule "ElectronicStation/radiation-search"]
 	path = ElectronicStation/radiation-search
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-radiation-search.git
+[submodule "ScientificExpedition/matrix-transpose"]
+	path = ScientificExpedition/matrix-transpose
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-matrix-transpose.git
+[submodule "Alice/cakes-row"]
+	path = Alice/cakes-row
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cakes-rows.git
