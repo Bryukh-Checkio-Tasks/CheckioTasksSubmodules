@@ -166,3 +166,6 @@
 [submodule "ScientificExpedition/weekend-counter"]
 	path = ScientificExpedition/weekend-counter
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-weekend-counter.git
+[submodule "ScientificExpedition/triangle-angles"]
+	path = ScientificExpedition/triangle-angles
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-triangle-angles.git
