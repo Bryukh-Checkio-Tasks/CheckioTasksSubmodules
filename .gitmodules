@@ -163,3 +163,6 @@
 [submodule "Alice/cakes-row"]
 	path = Alice/cakes-row
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cakes-rows.git
+[submodule "ScientificExpedition/weekend-counter"]
+	path = ScientificExpedition/weekend-counter
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-weekend-counter.git
