@@ -169,3 +169,6 @@
 [submodule "ScientificExpedition/triangle-angles"]
 	path = ScientificExpedition/triangle-angles
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-triangle-angles.git
+[submodule "ScientificExpedition/loadind-cargo"]
+	path = ScientificExpedition/loadind-cargo
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-loading-cargo.git
