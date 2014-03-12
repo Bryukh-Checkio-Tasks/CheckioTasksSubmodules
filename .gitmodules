@@ -172,3 +172,6 @@
 [submodule "ScientificExpedition/loadind-cargo"]
 	path = ScientificExpedition/loadind-cargo
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-loading-cargo.git
+[submodule "ScientificExpedition/landing-strip"]
+	path = ScientificExpedition/landing-strip
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-spaceship-landing-strip.git
