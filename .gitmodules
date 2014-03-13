@@ -178,3 +178,6 @@
 [submodule "Alice/multiplication-table"]
 	path = Alice/multiplication-table
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-multiplication-table.git
+[submodule "ScientificExpedition/square-chest"]
+	path = ScientificExpedition/square-chest
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-square-chest.git
