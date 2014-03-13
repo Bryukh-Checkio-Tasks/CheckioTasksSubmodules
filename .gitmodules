@@ -175,3 +175,6 @@
 [submodule "ScientificExpedition/landing-strip"]
 	path = ScientificExpedition/landing-strip
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-spaceship-landing-strip.git
+[submodule "Alice/multiplication-table"]
+	path = Alice/multiplication-table
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-multiplication-table.git
