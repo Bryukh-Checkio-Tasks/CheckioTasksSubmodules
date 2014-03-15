@@ -181,3 +181,6 @@
 [submodule "ScientificExpedition/square-chest"]
 	path = ScientificExpedition/square-chest
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-square-chest.git
+[submodule "ScientificExpedition/calculate-islands"]
+	path = ScientificExpedition/calculate-islands
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-calculate-islands.git
