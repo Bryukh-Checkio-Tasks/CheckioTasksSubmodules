@@ -184,3 +184,6 @@
 [submodule "ScientificExpedition/calculate-islands"]
 	path = ScientificExpedition/calculate-islands
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-calculate-islands.git
+[submodule "ScientificExpedition/digging-canal"]
+	path = ScientificExpedition/digging-canal
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digging-canal.git
