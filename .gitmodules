@@ -187,3 +187,6 @@
 [submodule "ScientificExpedition/digging-canal"]
 	path = ScientificExpedition/digging-canal
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digging-canal.git
+[submodule "ScientificExpedition/triangular-verticies"]
+	path = ScientificExpedition/triangular-verticies
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-triangular-vertices.git
