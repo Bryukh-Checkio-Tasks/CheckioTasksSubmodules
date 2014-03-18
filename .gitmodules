@@ -190,3 +190,6 @@
 [submodule "ScientificExpedition/triangular-verticies"]
 	path = ScientificExpedition/triangular-verticies
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-triangular-vertices.git
+[submodule "OReylli/striped-words"]
+	path = OReylli/striped-words
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-striped-words.git
