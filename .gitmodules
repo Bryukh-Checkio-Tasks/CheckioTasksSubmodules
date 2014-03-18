@@ -196,3 +196,6 @@
 [submodule "OReylli/ghosts-age"]
 	path = OReylli/ghosts-age
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-ghosts-age.git
+[submodule "OReylli/bats-bunker"]
+	path = OReylli/bats-bunker
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-bats-cave.git
