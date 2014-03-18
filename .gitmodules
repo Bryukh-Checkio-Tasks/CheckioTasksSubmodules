@@ -193,3 +193,6 @@
 [submodule "OReylli/striped-words"]
 	path = OReylli/striped-words
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-striped-words.git
+[submodule "OReylli/ghosts-age"]
+	path = OReylli/ghosts-age
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-ghosts-age.git
