@@ -208,3 +208,9 @@
 [submodule "IceBase/stair-steps"]
 	path = IceBase/stair-steps
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-stair-steps.git
+[submodule "IceBase/counting-tiles"]
+	path = IceBase/counting-tiles
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-counting-tiles.git
+[submodule "IceBase/convex-hull"]
+	path = IceBase/convex-hull
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-convex-hull.git
