@@ -202,3 +202,6 @@
 [submodule "IceBase/auto-painting"]
 	path = IceBase/auto-painting
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-auto-painting.git
+[submodule "IceBase/determinant"]
+	path = IceBase/determinant
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-determinant.git
