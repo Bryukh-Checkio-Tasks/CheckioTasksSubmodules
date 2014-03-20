@@ -205,3 +205,6 @@
 [submodule "IceBase/determinant"]
 	path = IceBase/determinant
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-determinant.git
+[submodule "IceBase/stair-steps"]
+	path = IceBase/stair-steps
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-stair-steps.git
