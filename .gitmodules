@@ -214,3 +214,6 @@
 [submodule "IceBase/convex-hull"]
 	path = IceBase/convex-hull
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-convex-hull.git
+[submodule "IceBase/cipher-crossword"]
+	path = IceBase/cipher-crossword
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cipher-crossword.git
