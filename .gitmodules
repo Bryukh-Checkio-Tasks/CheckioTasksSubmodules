@@ -217,3 +217,6 @@
 [submodule "IceBase/cipher-crossword"]
 	path = IceBase/cipher-crossword
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cipher-crossword.git
+[submodule "IceBase/funny-addition"]
+	path = IceBase/funny-addition
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-funny-addition.git
