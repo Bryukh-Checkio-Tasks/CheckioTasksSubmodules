@@ -223,3 +223,6 @@
 [submodule "Alice/humpty-dumpty"]
 	path = Alice/humpty-dumpty
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-humpty-dumpty.git
+[submodule "Alice/stick-sawing"]
+	path = Alice/stick-sawing
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-stick-sawing.git
