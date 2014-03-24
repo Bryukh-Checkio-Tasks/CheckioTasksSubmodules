@@ -220,3 +220,6 @@
 [submodule "IceBase/funny-addition"]
 	path = IceBase/funny-addition
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-funny-addition.git
+[submodule "Alice/humpty-dumpty"]
+	path = Alice/humpty-dumpty
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-humpty-dumpty.git
