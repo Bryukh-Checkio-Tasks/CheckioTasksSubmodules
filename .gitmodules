@@ -229,3 +229,6 @@
 [submodule "Alice/digits-doublets"]
 	path = Alice/digits-doublets
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digit-doublets.git
+[submodule "Github/determine-order"]
+	path = Github/determine-order
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-determine-the-order.git
