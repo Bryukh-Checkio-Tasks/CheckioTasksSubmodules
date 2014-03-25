@@ -226,3 +226,6 @@
 [submodule "Alice/stick-sawing"]
 	path = Alice/stick-sawing
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-stick-sawing.git
+[submodule "Alice/digits-doublets"]
+	path = Alice/digits-doublets
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digit-doublets.git
