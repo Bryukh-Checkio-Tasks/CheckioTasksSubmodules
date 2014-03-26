@@ -232,3 +232,6 @@
 [submodule "Github/determine-order"]
 	path = Github/determine-order
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-determine-the-order.git
+[submodule "Dropbox/pearl-box"]
+	path = Dropbox/pearl-box
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-box-probability.git
