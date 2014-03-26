@@ -235,3 +235,6 @@
 [submodule "Dropbox/pearl-box"]
 	path = Dropbox/pearl-box
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-box-probability.git
+[submodule "Mine/skew-matrix"]
+	path = Mine/skew-matrix
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-skew-symmetric-matrix.git
