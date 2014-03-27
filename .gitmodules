@@ -247,3 +247,6 @@
 [submodule "Mine/palindromic-palindrom"]
 	path = Mine/palindromic-palindrom
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-palindromic-palindrome.git
+[submodule "Mine/magic-square"]
+	path = Mine/magic-square
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-magic-square.git
