@@ -250,3 +250,6 @@
 [submodule "Mine/magic-square"]
 	path = Mine/magic-square
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-magic-square.git
+[submodule "Mine/math-lucky-tickets"]
+	path = Mine/math-lucky-tickets
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-mathematically-lucky-tickets.git
