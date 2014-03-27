@@ -238,3 +238,12 @@
 [submodule "Mine/skew-matrix"]
 	path = Mine/skew-matrix
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-skew-symmetric-matrix.git
+[submodule "Mine/pattern-recognition"]
+	path = Mine/pattern-recognition
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-matrix-pattern.git
+[submodule "Mine/building-visibility"]
+	path = Mine/building-visibility
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-buildings-visibility.git
+[submodule "Mine/palindromic-palindrom"]
+	path = Mine/palindromic-palindrom
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-palindromic-palindrome.git
