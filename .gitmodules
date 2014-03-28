@@ -253,3 +253,6 @@
 [submodule "Mine/math-lucky-tickets"]
 	path = Mine/math-lucky-tickets
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-mathematically-lucky-tickets.git
+[submodule "Incinerator/good-radix"]
+	path = Incinerator/good-radix
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-good-radix.git
