@@ -256,3 +256,6 @@
 [submodule "Incinerator/good-radix"]
 	path = Incinerator/good-radix
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-good-radix.git
+[submodule "Incinerator/mono-captcha"]
+	path = Incinerator/mono-captcha
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-mono-captcha.git
