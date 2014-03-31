@@ -259,3 +259,6 @@
 [submodule "Incinerator/mono-captcha"]
 	path = Incinerator/mono-captcha
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-mono-captcha.git
+[submodule "Incinerator/restricted-prime"]
+	path = Incinerator/restricted-prime
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-restricted-prime.git
