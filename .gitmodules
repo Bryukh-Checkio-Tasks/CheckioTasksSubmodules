@@ -262,3 +262,6 @@
 [submodule "Incinerator/restricted-prime"]
 	path = Incinerator/restricted-prime
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-restricted-prime.git
+[submodule "Uncategory/solution-anything"]
+	path = Uncategory/solution-anything
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-solution-for-anything
