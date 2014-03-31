@@ -265,3 +265,6 @@
 [submodule "Uncategory/solution-anything"]
 	path = Uncategory/solution-anything
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-solution-for-anything
+[submodule "Hubspot/url-normalization"]
+	path = Hubspot/url-normalization
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-normalization
