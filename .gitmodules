@@ -268,3 +268,6 @@
 [submodule "Hubspot/url-normalization"]
 	path = Hubspot/url-normalization
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-normalization
+[submodule "Hubspot/web-log-sessions"]
+	path = Hubspot/web-log-sessions
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-web-log-sessions.git
