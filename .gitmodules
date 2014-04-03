@@ -274,3 +274,6 @@
 [submodule "Uncategory/parse-array"]
 	path = Uncategory/parse-array
 	url = https://github.com/Bryukh-Checkio-Tasks/parse-array.git
+[submodule "Uncategory/cipher-map"]
+	path = Uncategory/cipher-map
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cipher-map.git
