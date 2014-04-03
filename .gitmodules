@@ -271,3 +271,6 @@
 [submodule "Hubspot/web-log-sessions"]
 	path = Hubspot/web-log-sessions
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-web-log-sessions.git
+[submodule "Uncategory/parse-array"]
+	path = Uncategory/parse-array
+	url = https://github.com/Bryukh-Checkio-Tasks/parse-array.git
