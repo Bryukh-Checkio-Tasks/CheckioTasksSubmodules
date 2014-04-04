@@ -277,3 +277,6 @@
 [submodule "Uncategory/cipher-map"]
 	path = Uncategory/cipher-map
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cipher-map.git
+[submodule "Uncategory/consistent-hash"]
+	path = Uncategory/consistent-hash
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-consistent-hashing.git
