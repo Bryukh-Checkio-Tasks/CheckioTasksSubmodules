@@ -280,3 +280,6 @@
 [submodule "Uncategory/consistent-hash"]
 	path = Uncategory/consistent-hash
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-consistent-hashing.git
+[submodule "Uncategory/strange-curcuit"]
+	path = Uncategory/strange-curcuit
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-strange-curcuit.git
