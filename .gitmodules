@@ -283,3 +283,6 @@
 [submodule "Uncategory/strange-curcuit"]
 	path = Uncategory/strange-curcuit
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-strange-curcuit.git
+[submodule "Uncategory/all-in-row"]
+	path = Uncategory/all-in-row
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-all-in-row.git
