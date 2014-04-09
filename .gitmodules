@@ -286,3 +286,6 @@
 [submodule "Uncategory/all-in-row"]
 	path = Uncategory/all-in-row
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-all-in-row.git
+[submodule "Uncategory/golden-pyramid"]
+	path = Uncategory/golden-pyramid
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-sums-in-a-triangle.git
