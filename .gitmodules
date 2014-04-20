@@ -289,3 +289,6 @@
 [submodule "Uncategory/golden-pyramid"]
 	path = Uncategory/golden-pyramid
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-sums-in-a-triangle.git
+[submodule "Uncategory/cowsay"]
+	path = Uncategory/cowsay
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-what-does-the-cow-say.git
