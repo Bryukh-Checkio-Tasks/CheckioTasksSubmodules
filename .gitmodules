@@ -292,3 +292,6 @@
 [submodule "Uncategory/cowsay"]
 	path = Uncategory/cowsay
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-what-does-the-cow-say.git
+[submodule "Home/parse-array"]
+	path = Home/parse-array
+	url = https://github.com/Bryukh-Checkio-Tasks/parse-array.git
