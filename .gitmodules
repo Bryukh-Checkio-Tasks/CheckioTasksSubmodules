@@ -295,3 +295,9 @@
 [submodule "Home/parse-array"]
 	path = Home/parse-array
 	url = https://github.com/Bryukh-Checkio-Tasks/parse-array.git
+[submodule "ScientificExpedition/friendly-number"]
+	path = ScientificExpedition/friendly-number
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-friendly-number.git
+[submodule "Mine/painting-wall"]
+	path = Mine/painting-wall
+	url = https://github.com/cielavenir/checkio-task-painting-wall
