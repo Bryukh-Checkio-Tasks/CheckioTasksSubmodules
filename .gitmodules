@@ -301,3 +301,6 @@
 [submodule "Mine/painting-wall"]
 	path = Mine/painting-wall
 	url = https://github.com/cielavenir/checkio-task-painting-wall
+[submodule "Uncategory/unfair-dice"]
+	path = Uncategory/unfair-dice
+	url = https://github.com/MagiMaster/checkio-task-unfair-dice.git
