@@ -304,3 +304,6 @@
 [submodule "Uncategory/unfair-dice"]
 	path = Uncategory/unfair-dice
 	url = https://github.com/MagiMaster/checkio-task-unfair-dice.git
+[submodule "Uncategory/min-max"]
+	path = Uncategory/min-max
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-min-max.git
