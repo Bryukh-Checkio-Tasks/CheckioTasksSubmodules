@@ -307,3 +307,6 @@
 [submodule "Uncategory/min-max"]
 	path = Uncategory/min-max
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-min-max.git
+[submodule "Uncategory/verify-anagrams"]
+	path = Uncategory/verify-anagrams
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-verify-anagrams.git
