@@ -310,3 +310,6 @@
 [submodule "Uncategory/verify-anagrams"]
 	path = Uncategory/verify-anagrams
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-verify-anagrams.git
+[submodule "Uncategory/simple-areas"]
+	path = Uncategory/simple-areas
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-simple-areas.git
