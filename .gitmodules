@@ -313,3 +313,6 @@
 [submodule "Uncategory/simple-areas"]
 	path = Uncategory/simple-areas
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-simple-areas.git
+[submodule "word-pattern"]
+	path = word-pattern
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-word-pattern.git
