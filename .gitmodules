@@ -319,3 +319,6 @@
 [submodule "calls-home"]
 	path = calls-home
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-calls-home.git
+[submodule "space-golf"]
+	path = space-golf
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-space-golf.git
