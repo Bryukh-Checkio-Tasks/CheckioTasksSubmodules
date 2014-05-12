@@ -316,3 +316,6 @@
 [submodule "word-pattern"]
 	path = word-pattern
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-word-pattern.git
+[submodule "calls-home"]
+	path = calls-home
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-calls-home.git
