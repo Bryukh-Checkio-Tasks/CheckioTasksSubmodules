@@ -322,3 +322,6 @@
 [submodule "space-golf"]
 	path = space-golf
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-space-golf.git
+[submodule "good-radix"]
+	path = good-radix
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-good-radix.git
