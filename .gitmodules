@@ -328,3 +328,6 @@
 [submodule "find-friends"]
 	path = find-friends
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-find-friends.git
+[submodule "golden-pyramid"]
+	path = golden-pyramid
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-sums-in-a-triangle.git
