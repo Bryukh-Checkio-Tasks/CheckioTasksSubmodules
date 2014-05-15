@@ -325,3 +325,6 @@
 [submodule "good-radix"]
 	path = good-radix
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-good-radix.git
+[submodule "find-friends"]
+	path = find-friends
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-find-friends.git
