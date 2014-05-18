@@ -331,3 +331,6 @@
 [submodule "golden-pyramid"]
 	path = golden-pyramid
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-sums-in-a-triangle.git
+[submodule "cipher-map"]
+	path = cipher-map
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cipher-map.git
