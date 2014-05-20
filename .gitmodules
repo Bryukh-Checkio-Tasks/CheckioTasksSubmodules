@@ -337,3 +337,6 @@
 [submodule "even-last"]
 	path = even-last
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-last.git
+[submodule "three-words"]
+	path = three-words
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-words.git
