@@ -334,3 +334,6 @@
 [submodule "cipher-map"]
 	path = cipher-map
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-cipher-map.git
+[submodule "even-last"]
+	path = even-last
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-even-last.git
