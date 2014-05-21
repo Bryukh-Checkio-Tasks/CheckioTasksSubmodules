@@ -340,3 +340,9 @@
 [submodule "three-words"]
 	path = three-words
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-words.git
+[submodule "most-numbers"]
+	path = most-numbers
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-most-numbers
+[submodule "sudoku-solver"]
+	path = sudoku-solver
+	url = https://github.com/Amachua/checkio-task-sudoku-solver.git
