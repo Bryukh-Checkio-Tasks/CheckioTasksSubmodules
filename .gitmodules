@@ -346,3 +346,6 @@
 [submodule "sudoku-solver"]
 	path = sudoku-solver
 	url = https://github.com/Amachua/checkio-task-sudoku-solver.git
+[submodule "digits-multiplication"]
+	path = digits-multiplication
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digits-multiplication
