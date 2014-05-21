@@ -349,3 +349,6 @@
 [submodule "digits-multiplication"]
 	path = digits-multiplication
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digits-multiplication
+[submodule "end-of-other"]
+	path = end-of-other
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-end-of-other
