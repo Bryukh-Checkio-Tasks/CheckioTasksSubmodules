@@ -358,3 +358,6 @@
 [submodule "number-base"]
 	path = number-base
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-radix.git
+[submodule "common-words"]
+	path = common-words
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-common-words
