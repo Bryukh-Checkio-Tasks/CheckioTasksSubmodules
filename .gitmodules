@@ -352,3 +352,6 @@
 [submodule "end-of-other"]
 	path = end-of-other
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-end-of-other
+[submodule "binary-count"]
+	path = binary-count
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-binary-count
