@@ -355,3 +355,6 @@
 [submodule "binary-count"]
 	path = binary-count
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-binary-count
+[submodule "number-base"]
+	path = number-base
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-number-radix.git
