@@ -364,3 +364,9 @@
 [submodule "median"]
 	path = median
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-median.git
+[submodule "morse-clock"]
+	path = morse-clock
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-morse-clock.git
+[submodule "house-password"]
+	path = house-password
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-house-password.git
