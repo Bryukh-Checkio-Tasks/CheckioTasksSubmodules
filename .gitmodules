@@ -370,3 +370,9 @@
 [submodule "house-password"]
 	path = house-password
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-house-password.git
+[submodule "most-wanted-letter"]
+	path = most-wanted-letter
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-most-wanted-letter.git
+[submodule "string-equivalence"]
+	path = string-equivalence
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-string-equivalence.git
