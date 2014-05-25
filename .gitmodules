@@ -382,3 +382,6 @@
 [submodule "strange-circuit"]
 	path = strange-circuit
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-strange-curcuit.git
+[submodule "hamming-distance"]
+	path = hamming-distance
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hamming-distance
