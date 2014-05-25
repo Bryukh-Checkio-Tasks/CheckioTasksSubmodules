@@ -379,3 +379,6 @@
 [submodule "fizz-buzz"]
 	path = fizz-buzz
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-fizz-buzz.git
+[submodule "strange-circuit"]
+	path = strange-circuit
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-strange-curcuit.git
