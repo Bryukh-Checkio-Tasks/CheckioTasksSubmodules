@@ -376,3 +376,6 @@
 [submodule "string-equivalence"]
 	path = string-equivalence
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-string-equivalence.git
+[submodule "fizz-buzz"]
+	path = fizz-buzz
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-fizz-buzz.git
