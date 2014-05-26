@@ -391,3 +391,6 @@
 [submodule "speech-module"]
 	path = speech-module
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-speech-module.git
+[submodule "feed-pigeons"]
+	path = feed-pigeons
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-feed-pigeons.git
