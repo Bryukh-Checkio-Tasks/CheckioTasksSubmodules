@@ -397,3 +397,6 @@
 [submodule "roman-numerals"]
 	path = roman-numerals
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-roman-numerals.git
+[submodule "water-jars"]
+	path = water-jars
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-water-jars.git
