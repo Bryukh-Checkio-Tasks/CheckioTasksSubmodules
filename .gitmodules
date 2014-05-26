@@ -385,3 +385,6 @@
 [submodule "hamming-distance"]
 	path = hamming-distance
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-hamming-distance
+[submodule "x-o-referee"]
+	path = x-o-referee
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-x-o-referee.git
