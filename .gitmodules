@@ -394,3 +394,6 @@
 [submodule "feed-pigeons"]
 	path = feed-pigeons
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-feed-pigeons.git
+[submodule "roman-numerals"]
+	path = roman-numerals
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-roman-numerals.git
