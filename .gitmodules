@@ -388,3 +388,6 @@
 [submodule "x-o-referee"]
 	path = x-o-referee
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-x-o-referee.git
+[submodule "speech-module"]
+	path = speech-module
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-speech-module.git
