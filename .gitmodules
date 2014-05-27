@@ -412,3 +412,6 @@
 [submodule "min-max"]
 	path = min-max
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-min-max.git
+[submodule "brackets"]
+	path = brackets
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-brackets.git
