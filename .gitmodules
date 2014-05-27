@@ -409,3 +409,6 @@
 [submodule "non-unique-elements"]
 	path = non-unique-elements
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-non-unique-elements.git
+[submodule "min-max"]
+	path = min-max
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-min-max.git
