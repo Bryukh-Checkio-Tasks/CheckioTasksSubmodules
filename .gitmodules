@@ -400,3 +400,12 @@
 [submodule "water-jars"]
 	path = water-jars
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-water-jars.git
+[submodule "open-labyrinth"]
+	path = open-labyrinth
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-open-labyrinth
+[submodule "parse-array"]
+	path = parse-array
+	url = https://github.com/Bryukh-Checkio-Tasks/parse-array.git
+[submodule "non-unique-elements"]
+	path = non-unique-elements
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-non-unique-elements.git
