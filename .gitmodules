@@ -415,3 +415,6 @@
 [submodule "brackets"]
 	path = brackets
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-brackets.git
+[submodule "three-points-circle"]
+	path = three-points-circle
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-points-circle.git
