@@ -418,3 +418,9 @@
 [submodule "three-points-circle"]
 	path = three-points-circle
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-three-points-circle.git
+[submodule "40coins"]
+	path = 40coins
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-40coins.git
+[submodule "unfair-dice"]
+	path = unfair-dice
+	url = https://github.com/MagiMaster/checkio-task-unfair-dice.git
