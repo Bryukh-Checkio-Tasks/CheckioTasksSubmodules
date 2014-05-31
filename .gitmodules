@@ -427,3 +427,6 @@
 [submodule "auto-painting"]
 	path = auto-painting
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-auto-painting.git
+[submodule "probably-dice"]
+	path = probably-dice
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-probably-dice.git
