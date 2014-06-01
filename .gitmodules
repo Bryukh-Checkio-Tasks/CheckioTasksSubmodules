@@ -433,3 +433,6 @@
 [submodule "determinant"]
 	path = determinant
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-determinant.git
+[submodule "convex-hull"]
+	path = convex-hull
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-convex-hull.git
