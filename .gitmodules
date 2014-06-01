@@ -430,3 +430,6 @@
 [submodule "probably-dice"]
 	path = probably-dice
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-probably-dice.git
+[submodule "determinant"]
+	path = determinant
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-determinant.git
