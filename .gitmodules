@@ -436,3 +436,6 @@
 [submodule "convex-hull"]
 	path = convex-hull
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-convex-hull.git
+[submodule "simple2048"]
+	path = simple2048
+	url = https://github.com/showjackyang/checkio-task-simple2048.git
