@@ -1,4 +1,5 @@
 from itertools import permutations
+from random import randint
 
 def golf(holes):
     best = float("inf")
@@ -14,4 +15,20 @@ def golf(holes):
             route = var
     return best, route
 
-print(golf({(2, 2), (2, 8), (8, 8), (8, 2), (5, 5)}))
+def rand_set():
+    res = set()
+    while len(res) < 5:
+        res.add((randint(1, 9), randint(1, 9)))
+    return res
+
+TESTS = [
+    {(1, 1), (1, 9), (9, 1), (9, 9), (5, 9)},
+    {(1, 1), (1, 2), (1, 3), (1, 4), (1, 5)},
+    {(1, 1), (3, 1), (5, 1), (7, 1), (9, 1)},
+]
+
+for t in TESTS:
+# for _ in range(20):
+#     t = rand_set()
+    ans, exp = golf(set(t))
+    print('{{\n\t"input": {},\n\t"answer": {},\n\t"show": {},\n\t"explanation": {},}}'.format(t, ans, round(ans, 2), exp))
