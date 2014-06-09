@@ -448,3 +448,6 @@
 [submodule "repeating-decimal"]
 	path = repeating-decimal
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-repeating-decimal.git
+[submodule "flatten-dict"]
+	path = flatten-dict
+	url = https://github.com/Bryukh/checkio-task-flatten-dict.git
