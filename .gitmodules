@@ -451,3 +451,6 @@
 [submodule "flatten-dict"]
 	path = flatten-dict
 	url = https://github.com/Bryukh/checkio-task-flatten-dict.git
+[submodule "disposable-teleports"]
+	path = disposable-teleports
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-disposable-teleports.git
