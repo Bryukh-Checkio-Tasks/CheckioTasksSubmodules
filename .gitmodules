@@ -442,3 +442,9 @@
 [submodule "prime-palindrome-golf"]
 	path = prime-palindrome-golf
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-prime-palindrome-golf.git
+[submodule "expected-dice"]
+	path = expected-dice
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-expected-dice
+[submodule "repeating-decimal"]
+	path = repeating-decimal
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-repeating-decimal.git
