@@ -454,3 +454,9 @@
 [submodule "disposable-teleports"]
 	path = disposable-teleports
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-disposable-teleports.git
+[submodule "check-digit"]
+	path = check-digit
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-check-digit.git
+[submodule "simple-hashlib"]
+	path = simple-hashlib
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-simple-hashlib.git
