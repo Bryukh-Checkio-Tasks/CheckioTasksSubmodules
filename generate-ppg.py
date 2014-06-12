@@ -23,9 +23,13 @@ T = [
 # for t in T:
 for _ in range(10):
 
-    t = randint(1, 10000)
+    t = randint(1, 10**5)
     ans = golf(t)
     print('''{{
     "input": {},
     "answer": {}
 }},'''.format(t, ans))
+#
+# for i in range(1000):
+#     if str(i) == str(i)[::-1] and is_prime(i):
+#         print(i)
