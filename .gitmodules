@@ -460,3 +460,9 @@
 [submodule "simple-hashlib"]
 	path = simple-hashlib
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-simple-hashlib.git
+[submodule "bird-language"]
+	path = bird-language
+	url = https://github.com/Bryukh/checkio-task-bird-language.git
+[submodule "verify-anagrams"]
+	path = verify-anagrams
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-verify-anagrams.git
