@@ -466,3 +466,6 @@
 [submodule "verify-anagrams"]
 	path = verify-anagrams
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-verify-anagrams.git
+[submodule "matrix-transpose"]
+	path = matrix-transpose
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-matrix-transpose.git
