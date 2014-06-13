@@ -469,3 +469,6 @@
 [submodule "matrix-transpose"]
 	path = matrix-transpose
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-matrix-transpose.git
+[submodule "weekend-counter"]
+	path = weekend-counter
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-weekend-counter.git
