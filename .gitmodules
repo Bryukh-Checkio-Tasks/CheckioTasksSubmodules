@@ -472,3 +472,6 @@
 [submodule "weekend-counter"]
 	path = weekend-counter
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-weekend-counter.git
+[submodule "triangle-angles"]
+	path = triangle-angles
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-triangle-angles.git
