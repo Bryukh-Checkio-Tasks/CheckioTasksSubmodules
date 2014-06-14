@@ -475,3 +475,6 @@
 [submodule "triangle-angles"]
 	path = triangle-angles
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-triangle-angles.git
+[submodule "square-chest"]
+	path = square-chest
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-square-chest.git
