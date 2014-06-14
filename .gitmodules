@@ -478,3 +478,6 @@
 [submodule "square-chest"]
 	path = square-chest
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-square-chest.git
+[submodule "friendly-number"]
+	path = friendly-number
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-friendly-number.git
