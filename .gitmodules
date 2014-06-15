@@ -481,3 +481,15 @@
 [submodule "friendly-number"]
 	path = friendly-number
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-friendly-number.git
+[submodule "flatten-list"]
+	path = flatten-list
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-all-in-row.git
+[submodule "skew-matrix"]
+	path = skew-matrix
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-skew-symmetric-matrix.git
+[submodule "loading-cargo"]
+	path = loading-cargo
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-loading-cargo.git
+[submodule "landing-strip"]
+	path = landing-strip
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-spaceship-landing-strip.git
