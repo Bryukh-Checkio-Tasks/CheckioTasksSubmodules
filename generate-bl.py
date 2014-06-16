@@ -1,6 +1,6 @@
 import random
 
-VOWELS = "aeyuio"
+VOWELS = "aeiouy"
 
 def human2bird(phrase):
     words = phrase.split()
