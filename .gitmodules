@@ -496,3 +496,9 @@
 [submodule "ore-in-the-desert"]
 	path = ore-in-the-desert
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-ore-in-the-desert.git
+[submodule "calculate-islands"]
+	path = calculate-islands
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-calculate-islands.git
+[submodule "digging-canal"]
+	path = digging-canal
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digging-canal.git
