@@ -502,3 +502,6 @@
 [submodule "digging-canal"]
 	path = digging-canal
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-digging-canal.git
+[submodule "battle-dice"]
+	path = battle-dice
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-battle-dice.git
