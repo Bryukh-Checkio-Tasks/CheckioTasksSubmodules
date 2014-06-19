@@ -505,3 +505,6 @@
 [submodule "battle-dice"]
 	path = battle-dice
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-battle-dice.git
+[submodule "network-attack"]
+	path = network-attack
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-network-attack.git
