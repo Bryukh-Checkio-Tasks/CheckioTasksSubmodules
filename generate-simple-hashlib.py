@@ -13,7 +13,7 @@ hashfunc_dic = {
 }
 
 if version.major == 3:
-    hash_text = lambda t, func: hashfunc_dic[func](bytes(t, "utf-8")).hexdigest()
+    hash_text = lambda t, func: hashfunc_dic[func](bytes(t, "utf8")).hexdigest()
 else:
     hash_text = lambda t, func: hashfunc_dic[func](t).hexdigest()
 
@@ -31,7 +31,7 @@ for t in T:
             t1 = "".join(random.choice(string.ascii_letters) for _ in range(1024))
         else:
             t1 = t
-        ans = f(bytes(t1, "utf-8")).hexdigest()
+        ans = f(bytes(t1, "utf8")).hexdigest()
         print("""{{
         "input": ['{}', '{}'],
         "answer": '{}'

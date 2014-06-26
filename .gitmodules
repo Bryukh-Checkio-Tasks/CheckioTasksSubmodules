@@ -508,3 +508,18 @@
 [submodule "network-attack"]
 	path = network-attack
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-network-attack.git
+[submodule "coins-golf"]
+	path = coins-golf
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-coins-golf.git
+[submodule "super-root"]
+	path = super-root
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-super-root.git
+[submodule "robot-sorting"]
+	path = robot-sorting
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-robot-sort.git
+[submodule "queue"]
+	path = queue
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-queue.git
+[submodule "digit-stack"]
+	path = digit-stack
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-digit-stack.git

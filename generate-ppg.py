@@ -17,19 +17,22 @@ def golf(number):
 
 T = [
     98689,
-    98688
+    98688,
+    98689
 ]
 
-# for t in T:
-for _ in range(10):
+for t in T:
+# for _ in range(10):
 
-    t = randint(1, 10**5)
+    # t = randint(1, 10**5)
     ans = golf(t)
     print('''{{
     "input": {},
     "answer": {}
 }},'''.format(t, ans))
 #
-# for i in range(1000):
-#     if str(i) == str(i)[::-1] and is_prime(i):
-#         print(i)
+l = []
+for i in range(10000):
+    if str(i) == str(i)[::-1] and is_prime(i):
+        l.append(i)
+print(l)
