@@ -523,3 +523,18 @@
 [submodule "digit-stack"]
 	path = digit-stack
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-digit-stack.git
+[submodule "striped-words"]
+	path = striped-words
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-striped-words.git
+[submodule "ghosts-age"]
+	path = ghosts-age
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-ghosts-age.git
+[submodule "bats-bunker"]
+	path = bats-bunker
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-bats-cave.git
+[submodule "painting-wall"]
+	path = painting-wall
+	url = https://github.com/cielavenir/checkio-task-painting-wall
+[submodule "haunted-house"]
+	path = haunted-house
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-haunted-house.git
