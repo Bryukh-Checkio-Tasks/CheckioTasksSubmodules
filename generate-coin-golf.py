@@ -36,6 +36,8 @@ for t in T:
         t = [randint(1, 9) for _ in range(randint(3, 10))]
 
     ans = golf(t)
+    if ans == sum(t) + 1:
+        continue
     print("""
         {{
             "input": {},

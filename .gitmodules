@@ -538,3 +538,21 @@
 [submodule "haunted-house"]
 	path = haunted-house
 	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-haunted-house.git
+[submodule "rotate-hole"]
+	path = rotate-hole
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-rotate-hole.git
+[submodule "bigproduct"]
+	path = bigproduct
+	url = https://github.com/tjwei/checkio-task-template.git
+[submodule "poker-dice"]
+	path = poker-dice
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-poker-dice.git
+[submodule "weak-point"]
+	path = weak-point
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-mission-weak-point.git
+[submodule "checkio-mission-pep8-break"]
+	path = checkio-mission-pep8-break
+	url = https://github.com/Bryukh/checkio-mission-pep8-break.git
+[submodule "pep8-break"]
+	path = pep8-break
+	url = https://github.com/Bryukh/checkio-mission-pep8-break.git
