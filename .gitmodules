@@ -556,3 +556,6 @@
 [submodule "pep8-break"]
 	path = pep8-break
 	url = https://github.com/Bryukh/checkio-mission-pep8-break.git
+[submodule "magic-domino"]
+	path = magic-domino
+	url = https://github.com/Bryukh-Checkio-Tasks/checkio-task-magic-domino.git
