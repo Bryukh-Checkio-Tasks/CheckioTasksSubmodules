@@ -1,25 +1,24 @@
-def checkio(array):
-    """
-        sums even-indexes elements and multiply at the last
-    """
+def checkio(data): 
+    numerals = {'M' : 1000, 'D': 500, 'C' : 100, 'L': 50, 'X': 10, 'V': 5, 'I': 1} 
+    end_result = "" 
+    new_result = "" 
+    for key in numerals: 
+        while True:  
+            new_result, data, flag = check(data, key, numerals[key]) 
+            if not flag: 
+                break 
+            else: 
+                end_result += new_result  
+    return end_result 
  
-    if array:
-        i = 0
-        sumarray = []
-        for num in array:
-            if i%2 == 0:
-                sumarray.append(array[i])
-            i+=i
-        summed = sum(sumarray)
-        end = len(array) - 1
-        answer = summed * array[end]
-        return answer
-    if not array:
-        answer = 0
-        return answer
-#These "asserts" using only for self-checking and not necessary for auto-testing
-if __name__ == '__main__':
-    assert checkio([0, 1, 2, 3, 4, 5]) == 30, "(0+2+4)*5=30"
-    assert checkio([1, 3, 5]) == 30, "(1+5)*5=30"
-    assert checkio([6]) == 36, "(6)*6=36"
-    assert checkio([]) == 0, "Empty"
+def check(data, key, value): 
+    result = "" 
+    flag = True 
+    if data - value >= 0: 
+        result += key 
+        data -= value     
+    else: 
+        flag = False 
+    return result, data, flag
+
+print(checkio(10))
